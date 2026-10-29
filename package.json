@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
+    "@google/genai": "^2.31.0",
     "class-variance-authority": "^0.7.1",
     "cn": "^0.3.0",
     "lucide-react": "^1.28.0",
@@ -29,6 +30,7 @@
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^7.0.0",
     "@testing-library/react": "^16.3.2",
+    "@testing-library/user-event": "^14.6.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
